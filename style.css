@@ -1,0 +1,23 @@
+.brand{
+    font-size: 2rem;
+}
+.centered {
+    margin: auto;
+    text-align: center;
+}
+.spanel{
+    color: #f5ba13;
+    font-family: 'McLaren', cursive;
+}
+.nav-link{
+    font-size: 1.15rem;
+}
+.nav-link:hover{
+    color: #f5ba13;
+}
+.type{
+    margin: 20px 0;
+    font-family: 'Lato', sans-serif;
+    font-size: 5rem;
+    color: #f5ba13;
+}
